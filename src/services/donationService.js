@@ -13,6 +13,7 @@ const KNOWN_DEPARTMENTS = [
   "EXTC",
   "AIDS",
   "Outsider",
+  "AIML"
 ];
 
 class DonationService {
